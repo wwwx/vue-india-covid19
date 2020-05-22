@@ -1,4 +1,4 @@
-# client-funbox-covid19
+# vue-india-covid19
 
 ## Project setup
 ```

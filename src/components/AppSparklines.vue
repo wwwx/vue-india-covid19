@@ -5,7 +5,6 @@
         :padding="option.padding"
         :line-width="option.width"
         :stroke-linecap="option.lineCap"
-        :gradient-direction="option.gradientDirection"
         :fill="option.fill"
         :type="option.type"
         :color="option.color"

@@ -1,5 +1,5 @@
 {
-  "name": "client-funbox-covid19",
+  "name": "vue-india-covid19",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,8 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
+    "date-fns": "^2.14.0",
+    "date-fns-tz": "^1.0.10",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
